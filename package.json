@@ -107,7 +107,6 @@
     "util": "^0.12.4",
     "wa-sticker-formatter": "^4.0.14",
     "yargs": "^17.0.1",
-    "hah": "^2.9.0",
     "zs-extract": "^1.4.1"
   },
   "devDependencies": {}
